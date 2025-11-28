@@ -17,14 +17,6 @@ Páginas, layouts, prototipos, experimentos y mini-proyectos desarrollados con:
 - CSS  
 - JavaScript  
 
-## 📂 Organización del repositorio
-- **html/** → proyectos web, interfaces, prácticas y experimentación  
-- **python/** → automatizaciones, scripts y herramientas  
-
-
-Disfruta explorando el código 🚀
-
-
 ## 📫 Contacto
 Si te interesa colaborar:
 **Correo:** damianjrz.rivera@gmail.com
