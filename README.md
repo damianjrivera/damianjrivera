@@ -1,16 +1,30 @@
-## Hi there 👋
+# Damian juarez Rivera
+Soy desarrollador backend y frontend en formación al que le encanta crear cosas: páginas web, pequeños sistemas, scripts y proyectos que me ayudan a aprender algo nuevo cada día.  
+---
 
-<!--
-**damianjrivera/damianjrivera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Sistemas y aplicaciones web**
+Desarrollo de lógica, paneles, herramientas internas y estructuras completas utilizando:
+- PHP puro  
+- JavaScript  
+- HTML & CSS  
 
-Here are some ideas to get you started:
+🤖 **Automatización**
+Tareas repetitivas convertidas en procesos automáticos mediante: **Python**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Frontend simple y funcional**
+Páginas, layouts, prototipos, experimentos y mini-proyectos desarrollados con:
+- HTML  
+- CSS  
+- JavaScript  
+
+## 📂 Organización del repositorio
+- **html/** → proyectos web, interfaces, prácticas y experimentación  
+- **python/** → automatizaciones, scripts y herramientas  
+
+
+Disfruta explorando el código 🚀
+
+
+## 📫 Contacto
+Si te interesa colaborar:
+**Correo:** damianjrz.rivera@gmail.com
