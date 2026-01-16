@@ -6,7 +6,8 @@ Soy desarrollador backend y frontend en formación al que le encanta crear cosas
 Desarrollo de lógica, paneles, herramientas internas y estructuras completas utilizando:
 - PHP puro  
 - JavaScript  
-- HTML & CSS  
+- HTML & CSS
+- Python  
 
 🤖 **Automatización**
 Tareas repetitivas convertidas en procesos automáticos mediante: **Python**  
